@@ -3,15 +3,7 @@
   overflow-y: scroll;
 }
 
-.trix-button-group--history-tools {
-  display: none !important;
-}
-
 .error {
   color: red;
-}
-
-body {
-  background: #000 !important;
 }
 
